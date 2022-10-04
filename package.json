@@ -10,7 +10,7 @@
     "start": "set TEST=dev"
   },
   "dependencies": {
-    "@lob/lob-typescript-sdk": "^1.0.0",
+    "@lob/lob-typescript-sdk": "^1.1.0",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
